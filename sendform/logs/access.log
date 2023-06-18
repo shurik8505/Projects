@@ -1,0 +1,4 @@
+127.0.0.1 - - [18/Jun/2023:17:07:37 +0200] "GET /style.css HTTP/1.1" 200 1435 "http://sendform.loc/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+127.0.0.1 - - [18/Jun/2023:17:07:37 +0200] "GET /script.js HTTP/1.1" 200 1654 "http://sendform.loc/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+127.0.0.1 - - [18/Jun/2023:17:07:37 +0200] "GET /img/Hourglass.gif HTTP/1.1" 304 181 "http://sendform.loc/style.css" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+127.0.0.1 - - [18/Jun/2023:17:07:37 +0200] "GET /favicon.ico HTTP/1.1" 404 490 "http://sendform.loc/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
